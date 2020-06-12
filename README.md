@@ -43,7 +43,7 @@ This file addresses question 4 of the project. An AR is implemented to the left 
 ## wave1d_ex6_ex7_ex8
 This file can be used to address questions 6 to 8 of the project. It requires ex6_observationdata_wave1d.py as input. For question 7 it is needed to change the ensemble size and run the code.
 
-##ex6_observationdata_wave1d.py
+## ex6_observationdata_wave1d.py
 This file is used to produce the observations data used as real data input in exercise 6. The initial condition needs to be modified to perform task of question 8.
 
 ## wave1d_ex9
